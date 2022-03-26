@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "League Spartan", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+  padding: 2rem;
+}
+
+img {
+  max-width: 100%;
+  width: 250px;
+  border-radius: 1rem;
+  margin-bottom: 2rem;
+}
